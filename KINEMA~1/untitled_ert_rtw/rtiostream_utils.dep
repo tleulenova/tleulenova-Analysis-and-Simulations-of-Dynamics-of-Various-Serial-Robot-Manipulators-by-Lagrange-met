@@ -1,0 +1,14 @@
+rtiostream_utils.o: \
+ D:/Matlab2021/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ D:/Matlab2021/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ C:/Users/ASUSS/OneDrive/MASAST~1/ders/ROBOTD~1/2/KINEMA~1/untitled_ert_rtw/rtwtypes.h \
+ D:/Matlab2021/extern/include/tmwtypes.h \
+ D:/Matlab2021/toolbox/coder/rtiostream/src/rtiostream.h
+
+D:/Matlab2021/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+C:/Users/ASUSS/OneDrive/MASAST~1/ders/ROBOTD~1/2/KINEMA~1/untitled_ert_rtw/rtwtypes.h:
+
+D:/Matlab2021/extern/include/tmwtypes.h:
+
+D:/Matlab2021/toolbox/coder/rtiostream/src/rtiostream.h:

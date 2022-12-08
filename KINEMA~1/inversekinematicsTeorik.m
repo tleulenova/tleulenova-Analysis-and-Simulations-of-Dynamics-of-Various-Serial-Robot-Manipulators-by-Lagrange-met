@@ -1,0 +1,17 @@
+%inverse kinematics
+syms L1 L2 theta1 theta2 X Y
+
+ % Define X and Y Coordinates of End Effector
+ X_RHS=L1*cos(theta1)+L2*cos(theta1+theta2)
+ Y_RHS=L1*sin(theta1)+L2*sin(theta1+theta2)
+ 
+X_EQ = X == X_RHS;
+Y_EQ = Y == Y_RHS;
+
+S=solve([X_EQ Y_EQ],[theta1 theta2])
+%Show the pair of solutions for theta1
+simplify(S.theta1)
+%Show the pair of solutions for theta1
+simplify(S.theta2)
+%Compute System Jacobian
+J = jacobian([X_RHS Y_RHS],[theta1 theta2])

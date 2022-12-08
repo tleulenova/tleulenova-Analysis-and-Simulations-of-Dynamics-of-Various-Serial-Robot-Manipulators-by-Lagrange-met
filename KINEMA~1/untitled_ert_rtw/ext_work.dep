@@ -1,0 +1,31 @@
+ext_work.o: D:/Matlab2021/rtw/c/src/ext_mode/common/ext_work.c \
+ C:/Users/ASUSS/OneDrive/MASAST~1/ders/ROBOTD~1/2/KINEMA~1/untitled_ert_rtw/rtwtypes.h \
+ D:/Matlab2021/extern/include/tmwtypes.h \
+ D:/Matlab2021/simulink/include/rtw_extmode.h \
+ D:/Matlab2021/rtw/c/src/ext_mode/common/ext_types.h \
+ D:/Matlab2021/rtw/c/src/ext_mode/common/ext_share.h \
+ D:/Matlab2021/rtw/c/src/ext_mode/common/updown.h \
+ D:/Matlab2021/rtw/c/src/ext_mode/common/upsup_public.h \
+ D:/Matlab2021/rtw/c/src/ext_mode/common/ext_svr.h \
+ D:/Matlab2021/rtw/c/src/ext_mode/common/ext_svr_transport.h \
+ D:/Matlab2021/rtw/c/src/ext_mode/common/ext_work.h
+
+C:/Users/ASUSS/OneDrive/MASAST~1/ders/ROBOTD~1/2/KINEMA~1/untitled_ert_rtw/rtwtypes.h:
+
+D:/Matlab2021/extern/include/tmwtypes.h:
+
+D:/Matlab2021/simulink/include/rtw_extmode.h:
+
+D:/Matlab2021/rtw/c/src/ext_mode/common/ext_types.h:
+
+D:/Matlab2021/rtw/c/src/ext_mode/common/ext_share.h:
+
+D:/Matlab2021/rtw/c/src/ext_mode/common/updown.h:
+
+D:/Matlab2021/rtw/c/src/ext_mode/common/upsup_public.h:
+
+D:/Matlab2021/rtw/c/src/ext_mode/common/ext_svr.h:
+
+D:/Matlab2021/rtw/c/src/ext_mode/common/ext_svr_transport.h:
+
+D:/Matlab2021/rtw/c/src/ext_mode/common/ext_work.h:
